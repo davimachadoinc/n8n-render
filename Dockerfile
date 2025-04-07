@@ -7,3 +7,4 @@ ENV DB_TYPE=postgresdb
 ENV N8N_HOST=n8n-k3xb.onrender.com
 ENV N8N_PROTOCOL=https
 ENV VUE_APP_URL_BASE_API=https://n8n-k3xb.onrender.com/
+ENV ENCRYPTION_KEY=a6sd1as65d1sa6d1asd65as1d65as4d65sa4d6a5s4d65as4d646d4h
